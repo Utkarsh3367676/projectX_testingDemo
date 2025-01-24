@@ -1,2 +1,2 @@
-# projectX
+# projectx
 Demo example project!
